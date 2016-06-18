@@ -1,0 +1,1 @@
+G:\cs50\mywinforms\theDay\bin\Debug\theDay.exe.config
